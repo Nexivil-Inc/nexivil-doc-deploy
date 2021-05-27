@@ -1,34 +1,37 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Nexivil Document',
+  tagline: 'Nexivil Documents are cool',
+  url: 'https://nexivil.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'nexivil', // Usually your GitHub org/user name.
+  projectName: 'nexivil-doc', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Nexivil Document',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Nexivil Document Logo',
+        // src: 'img/logo.svg',
+        // src: 'img/whitelogo.svg',
+        src: 'img/blacklogo.svg',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Manual',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Nexivil-Inc/nexivil-doc',
           label: 'GitHub',
           position: 'right',
         },
+       
       ],
     },
     footer: {
@@ -38,7 +41,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Manual',
               to: '/docs/intro',
             },
           ],
@@ -46,18 +49,18 @@ module.exports = {
         {
           title: 'Community',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+            // {
+            //   label: 'Stack Overflow',
+            //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            // },
+            // {
+            //   label: 'Discord',
+            //   href: 'https://discordapp.com/invite/docusaurus',
+            // },
+            // {
+            //   label: 'Twitter',
+            //   href: 'https://twitter.com/docusaurus',
+            // },
           ],
         },
         {
@@ -69,12 +72,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Nexivil-Inc/nexivil-doc',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nexivil, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
