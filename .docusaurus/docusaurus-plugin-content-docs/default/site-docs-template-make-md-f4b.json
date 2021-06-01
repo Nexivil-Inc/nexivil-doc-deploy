@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Template/make",
+  "id": "Template/make",
+  "isDocsHomePage": false,
+  "title": "Template Editor 구성 기초",
+  "description": "템플릿은 시퀀스로 관리가 됩니다. 각각 시퀀스는 하나의 비주얼 스크립팅을 통해 사용자가 구성을 할 수 있습니다.",
+  "source": "@site/docs/Template/make.md",
+  "sourceDirName": "Template",
+  "slug": "/Template/make",
+  "permalink": "/docs/Template/make",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Template/make.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Template Editor 소개",
+    "permalink": "/docs/Template/intro"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/docs/Template/start"
+  }
+}

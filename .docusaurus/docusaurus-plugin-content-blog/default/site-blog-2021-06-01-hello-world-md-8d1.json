@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/start",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2021-06-01-hello-world.md",
+  "source": "@site/blog/2021-06-01-hello-world.md",
+  "title": "시작",
+  "description": "넥시빌 블로그 기능 init",
+  "date": "2021-06-01T00:00:00.000Z",
+  "formattedDate": "June 1, 2021",
+  "tags": [
+    {
+      "label": "넥시빌",
+      "permalink": "/blog/tags/넥시빌"
+    },
+    {
+      "label": "Nexivil",
+      "permalink": "/blog/tags/nexivil"
+    },
+    {
+      "label": "manual",
+      "permalink": "/blog/tags/manual"
+    }
+  ],
+  "readingTime": 0.02,
+  "truncated": false
+}

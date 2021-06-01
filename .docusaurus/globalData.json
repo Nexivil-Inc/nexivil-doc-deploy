@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Auth/로그인",
+              "path": "/docs/Auth/로그인",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Auth/회원가입",
+              "path": "/docs/Auth/회원가입",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AuthSetting/intro",
+              "path": "/docs/AuthSetting/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DesignExpress/intro",
+              "path": "/docs/DesignExpress/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Package/intro",
+              "path": "/docs/Package/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ProjectSetting/intro",
+              "path": "/docs/ProjectSetting/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ProjectSetting/manageUser",
+              "path": "/docs/ProjectSetting/manageUser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Template/intro",
+              "path": "/docs/Template/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Template/make",
+              "path": "/docs/Template/make",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Template/start",
+              "path": "/docs/Template/start",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

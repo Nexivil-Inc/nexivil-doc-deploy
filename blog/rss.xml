@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Nexivil Document Blog</title>
+        <link>https://nexivil.com/blog</link>
+        <description>Nexivil Document Blog</description>
+        <lastBuildDate>Tue, 01 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시작]]></title>
+            <link>https://nexivil.com/blog/start</link>
+            <guid>start</guid>
+            <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[넥시빌 블로그 기능 init]]></description>
+        </item>
+    </channel>
+</rss>

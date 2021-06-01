@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Package/intro",
+  "id": "Package/intro",
+  "isDocsHomePage": false,
+  "title": "test",
+  "description": "",
+  "source": "@site/docs/Package/intro.md",
+  "sourceDirName": "Package",
+  "slug": "/Package/intro",
+  "permalink": "/docs/Package/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/Package/intro.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "test",
+    "permalink": "/docs/AuthSetting/intro"
+  },
+  "next": {
+    "title": "개요",
+    "permalink": "/docs/ProjectSetting/intro"
+  }
+}

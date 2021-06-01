@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ProjectSetting/intro",
+  "id": "ProjectSetting/intro",
+  "isDocsHomePage": false,
+  "title": "개요",
+  "description": "개별 프로젝트의 설정에 접근합니다.",
+  "source": "@site/docs/ProjectSetting/intro.md",
+  "sourceDirName": "ProjectSetting",
+  "slug": "/ProjectSetting/intro",
+  "permalink": "/docs/ProjectSetting/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ProjectSetting/intro.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "test",
+    "permalink": "/docs/Package/intro"
+  },
+  "next": {
+    "title": "멤버의 관리 및 권한 설정",
+    "permalink": "/docs/ProjectSetting/manageUser"
+  }
+}
