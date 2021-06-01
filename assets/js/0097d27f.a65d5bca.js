@@ -1,1 +1,0 @@
-(self.webpackChunknexivil_doc=self.webpackChunknexivil_doc||[]).push([[870],{2544:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"nexivil","name":"nexivil","count":1,"permalink":"/blog/tags/nexivil"}')}}]);
