@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[시작]]></title>
-            <link>https://nexivil.com/nexivil-doc-deploy/blog/start</link>
+            <link>https://nexivil.com/blog/start</link>
             <guid>start</guid>
             <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[넥시빌 블로그 기능 init]]></description>
