@@ -1,1 +1,0 @@
-(self.webpackChunknexivil_doc=self.webpackChunknexivil_doc||[]).push([[7322],{5387:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/nexivil-doc-deploy/blog/tags","slug":"nexivil","name":"nexivil","count":1,"permalink":"/nexivil-doc-deploy/blog/tags/nexivil"}')}}]);
