@@ -1,0 +1,1 @@
+(self.webpackChunknexivil_doc=self.webpackChunknexivil_doc||[]).push([[195],{2841:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return o}});var c=t(7294),i=t(5977);function o(){return c.createElement(i.l_,{to:"/nexivil-doc-deploy/docs/intro"})}}}]);
